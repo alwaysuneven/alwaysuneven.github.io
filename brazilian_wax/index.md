@@ -2,7 +2,7 @@
 layout: default
 pageTitle: Brazilian WAXxx
 title: Brazilian WAXxx 
-subtitle: O pequenino
+subtitle: Not that one people think of
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/brazilian_wax_side.jpg" />
@@ -30,18 +30,18 @@ forests in our wetlands.
   <div class="col-6">
     <h2>Marchinha</h2>
     <p>
-    Salve, salve, salve a Amazonia brasileira<br>
-    Salve, salve, salve a Amazonia brasileira
+    Salve, salve, salve a Amazônia brasileira<br>
+    Salve, salve, salve a Amazônia brasileira
     </p>
     <p>
-    No matagal, nao mexe nao <br>
+    No matagal, não mexe não <br>
     Sendo vai dar uma puta confusão <br>
     Mas a mocinha, pode aparar <br>
     Poe biquininho e vai na praia pra nadar <br>
     </p>
     <p>
-    Salve, salve, salve a Amazonia brasileira<br>
-    Salve, salve, salve a Amazonia brasileira
+    Salve, salve, salve a Amazônia brasileira<br>
+    Salve, salve, salve a Amazônia brasileira
     </p>
     <p>
     Quando eu te falo, sou brasileira <br>
@@ -50,18 +50,18 @@ forests in our wetlands.
     Não tenho tempo pra esse tipo de conversa <br>
     </p>
     <p>
-    Salve, salve, salve a Amazonia brasileira<br>
-    Salve, salve, salve a Amazonia brasileira
+    Salve, salve, salve a Amazônia brasileira<br>
+    Salve, salve, salve a Amazônia brasileira
     </p>
     <p>
     Toda mulher que tem joelho <br>
     Tambem vai ter um bocado de pentelho <br>
     O meu amigo, deixa de besteira <br>
-    Tem muito mato na Amazonia brasileira <br>
+    Tem muito mato na Amazônia brasileira <br>
     </p>
     <p>
-    Salve, salve, salve a Amazonia brasileira<br>
-    Salve, salve, salve a Amazonia brasileira
+    Salve, salve, salve a Amazônia brasileira<br>
+    Salve, salve, salve a Amazônia brasileira
     </p>
     <p>
     Gillete? Não! Com cera? Não! <br>
@@ -70,8 +70,8 @@ forests in our wetlands.
     Até sem desmatamento da tesão
     </p>
     <p>
-    Salve, salve, salve a Amazonia brasileira<br>
-    Salve, salve, salve a Amazonia brasileira
+    Salve, salve, salve a Amazônia brasileira<br>
+    Salve, salve, salve a Amazônia brasileira
     </p>
   </div>
   <div class="col-6">
