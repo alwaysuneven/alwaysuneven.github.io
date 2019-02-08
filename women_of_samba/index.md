@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Live In The Gallery
+title: Women Of Samba
 subtitle: 100 Years of Samba - 2016
 ---
 
