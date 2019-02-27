@@ -23,5 +23,3 @@ alwaysuneven:
   author:
     name: Marcelo Garcia
   lang: en
-gems:
-  - jekyll-redirect-from

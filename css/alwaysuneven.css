@@ -27,6 +27,10 @@ color: #979797;
   margin-bottom: 30px;
 }
 
+.portfolio-item-live-in-the-gallery {
+  height: 300px;
+}
+
 .portfolio-item .pi-inner {
   position: absolute;
   width: 100%;
