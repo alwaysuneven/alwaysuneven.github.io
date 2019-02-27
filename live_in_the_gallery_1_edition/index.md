@@ -55,3 +55,23 @@ With soul shooting global melodies, Rasteiro is a musical project with the aim o
     </p>
   </div>
 </div>
+
+
+<hr>    
+ <h2 class="content-subhead">Cast and Creatives</h2>     
+
+<dl class="row">
+  <dt class="col-6">Concept &amp; Director</dt>
+  <dd class="col-6">Julia Calasso</dd>
+
+  <dt class="col-6">Photographer</dt>
+  <dd class="col-6">Igor Dallegrave</dd>
+
+  <dt class="col-6">Musicians</dt>
+  <dd class="col-6">Marcelo Garcia, Maurizio Gulina, Julia Calasso, Tiago Ucella, Stefano Vespucci, Clarens Sanches</dd>
+
+  <dt class="col-6">Sound Engineer</dt>
+  <dd class="col-6">Alcides Neto</dd>
+
+</dl>
+

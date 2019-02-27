@@ -43,3 +43,23 @@ Enriching the samba experience, we had an art exhibition by Gustavo Cristoofaro.
     </p>
   </div>
 </div>
+
+
+<hr>    
+ <h2 class="content-subhead">Cast and Creatives</h2>     
+
+<dl class="row">
+  <dt class="col-6">Concept &amp; Director</dt>
+  <dd class="col-6">Julia Calasso</dd>
+
+  <dt class="col-6">Photographer</dt>
+  <dd class="col-6">Michael Silver</dd>
+
+  <dt class="col-6">Musicians</dt>
+  <dd class="col-6">Damiano Spina, Stefano Vespucci, Tiago Ucella, Marcelo Garcia, Maurizio Gulina, Julia Calasso, Tide, Gabriel Marinho, Renan Santos, Clarens Sanches, Imogen Pemberton</dd>
+
+  <dt class="col-6">Sound Engineer</dt>
+  <dd class="col-6">Alcides Neto</dd>
+
+</dl>
+
