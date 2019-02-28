@@ -1,13 +1,10 @@
 ---
 layout: default
 title: Live In The Gallery
-subtitle: The closer the better
+subtitle: Where art hosts art
 ---
 
-## Where art hosts art
-
-
-Live in the Gallery' is an event that brings live performances to a gallery space. 
+'Live in the Gallery' is an event that brings live performances to a gallery space. 
 
 This event combines different artistic forms such as fine arts, photo, music, dance, poetry in one experience. What is going to happen as result of this combination is always a surprise for audience and artists involved. 
 
