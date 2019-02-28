@@ -18,3 +18,12 @@ Performing in schools is an important opportunity to the group as a way to show 
  
 Axé Camará! 
  
+
+ <div class="row">
+  <figure class=" col-lg-6 col-md-6">
+    <img class="img-fluid" src="images/camara_2.jpg">  
+  </figure>
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/camara_3.jpg">
+  </figure>
+</div>
