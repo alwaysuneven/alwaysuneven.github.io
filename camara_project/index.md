@@ -21,9 +21,9 @@ Axé Camará! 
 
  <div class="row">
   <figure class=" col-lg-6 col-md-6">
-    <img class="img-fluid" src="images/camara_2.jpg">  
+    <img class="img-fluid" src="images/camara_project_2.jpg">  
   </figure>
   <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/camara_3.jpg">
+      <img class="img-fluid" src="images/camara_project_3.jpg">
   </figure>
 </div>
