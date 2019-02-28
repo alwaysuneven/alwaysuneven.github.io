@@ -88,3 +88,9 @@ p {
   font-weight: 300;
   font-size: 1.5rem;
 }
+
+@media (max-width: 767.98px) { 
+  .wof-sm-position {
+    background-position-x: -700px;
+  }
+}
