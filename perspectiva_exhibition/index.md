@@ -69,7 +69,7 @@ Gonçalves</dd>
 Wong, Igor Dellagrave, Fernanda Vilella, Fabrice Ginape</dd>
 
   <dt class="col-6">Artists Invited</dt>
-  <dd class="col-6">Brian Pieper, Veronica Petelin, Sophie Sardi, Travis 
+  <dd class="col-6">Brian Pieper, Veronica Petelin, Sophie Sardi, Daniela Sonksen, Travis 
 Vella, Carmen Olsen, Alex Childs, Tanleea Valestro, Patrick
 Loverson, Geoff Coleman, Mick Connolly, Glenda Mathews,
 Revell Philips, Gary Cassidy</dd>
