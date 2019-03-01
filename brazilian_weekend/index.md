@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Brazilian Weekend La Peñita Del Neruda
-subtitle: Engaging in local community
+title: La Peñita Del Neruda
+subtitle: Brazilian Weekend
 ---
 
-15th & 16th September 2018 
+## Engaging with local community
 
-Always Uneven in partnership with La Peñita Del Neruda cafe put together the ‘Brazilian Weekend’ with live music, South American empanadas, beer and wine. 
+15th & 16th September 2018 
+Always Uneven in partnership with [Neruda's Brunskick](http://www.cafenerudas.com.au) put together the ‘Brazilian Weekend’ with live music, South American empanadas, beer and wine. 
 The guitar duo Rasteiro played on Saturday their originals and Brazilian Bossa Nova with a jazzy flavour. For this show Maurizio Gulina and Marcelo Garcia invited Tiago Ucella and Julia Calasso to play percussion alongside them. 
 [More about Rasteiro](https://www.facebook.com/rasteiromusic/)
 
