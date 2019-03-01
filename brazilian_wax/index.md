@@ -156,5 +156,5 @@ forests in our wetlands.
   <dd class="col-6">Mariane Gonçalves, Julia Calasso</dd>
 
   <dt class="col-6">Crew</dt>
-  <dd class="col-6">João Oliveria, Marcelo Garcia, Alysson Costa, Tiago Ucella, Luciana Carvalho, Rob Bain, Alex Childs, Sophie Dahm</dd>
+  <dd class="col-6">João Oliveria, Marcelo Garcia, Alysson Costa, Manga Moraes, Tiago Ucella, Luciana Carvalho, Rob Bain, Alex Childs, Flavia Barnett, Tide Neto, Clarens Sanchez, Stefano Mangiola, Fernanda Quilici, Julia Fidelis, Alex Barnett, Damiano Spina, Sophie Dahm</dd>
 </dl>
