@@ -30,6 +30,9 @@
 {% if page.socialMediaImage %}
 <meta property="og:image"              content="{{ page.socialMediaImage }}" />
 <meta name="twitter:image" content="{{ page.socialMediaImage }}">
+{% else %}
+<meta property="og:image"              content="http://alwaysuneven.com/images/alwaysuneven.jpg" />
+<meta name="twitter:image" content="http://alwaysuneven.com/images/alwaysuneven.jpg">
 {% endif %}
 
 <meta name="twitter:card" content="summary">
