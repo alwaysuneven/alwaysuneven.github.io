@@ -68,7 +68,7 @@ With soul shooting global melodies, Rasteiro is a musical project with the aim o
   <dd class="col-6">Igor Dallegrave</dd>
 
   <dt class="col-6">Musicians</dt>
-  <dd class="col-6">Marcelo Garcia, Maurizio Gulina, Julia Calasso, Tiago Ucella, Stefano Vespucci, Clarens Sanches</dd>
+  <dd class="col-6">Marcelo Garcia, Maurizio Gulina, Julia Calasso, Tiago Ucella, Stefano Vespucci, Clarens Sanchez</dd>
 
   <dt class="col-6">Sound Engineer</dt>
   <dd class="col-6">Alcides Neto</dd>
