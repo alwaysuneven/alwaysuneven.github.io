@@ -3,6 +3,7 @@ layout: default
 pageTitle: Perspectiva Exhibition
 title: Perspectiva Exhibition - 2017
 subtitle: The view of the viewed
+socialMediaImage: http://alwaysuneven.com/perspectiva_exhibition/images/perspectiva_exhibition_side.jpg
 ---
 <img class="img-fluid float-right ml-3 mb-3" src="images/perspectiva_exhibition_side.jpg" />
 

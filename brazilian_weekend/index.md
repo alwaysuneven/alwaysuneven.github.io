@@ -2,6 +2,7 @@
 layout: default
 title: La Peñita Del Neruda
 subtitle: Brazilian Weekend
+socialMediaImage: http://alwaysuneven.com/images/brazilian_weekend.jpg
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/brazilian_weekend_flyer.jpg" />

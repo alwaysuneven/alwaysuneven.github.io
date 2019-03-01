@@ -2,6 +2,7 @@
 layout: default
 title: Live In The Gallery
 subtitle: Second Edition
+socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_2_edition.jpg
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/live_in_the_gallery_artist.jpg" />

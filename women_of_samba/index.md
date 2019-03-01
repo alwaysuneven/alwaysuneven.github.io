@@ -2,6 +2,7 @@
 layout: default
 title: Women Of Samba
 subtitle: 100 Years of Samba - 2016
+socialMediaImage: http://alwaysuneven.com/women_of_samba/images/women_of_samba_2.jpg
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/women_of_samba_side.jpg" />

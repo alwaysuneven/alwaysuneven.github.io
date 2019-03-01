@@ -3,6 +3,7 @@ layout: default
 pageTitle: Brazilian WAXxx
 title: Brazilian WAXxx 
 subtitle: Not that one people think of
+socialMediaImage: http://alwaysuneven.com/brazilian_wax/images/brazilian_wax_crowd.jpg
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/brazilian_wax_side.jpg" />

@@ -2,6 +2,7 @@
 layout: default
 title: Live In The Gallery
 subtitle: Where art hosts art
+socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_1_edition.jpg
 ---
 
 'Live in the Gallery' is an event that brings live performances to a gallery space. 
