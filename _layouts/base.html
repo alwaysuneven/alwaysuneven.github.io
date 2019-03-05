@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+<link rel="stylesheet" href="../css/alwaysuneven.css">
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135474398-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135474398-1');
+</script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title"              content="{{ page.title }}" />
+<meta property="og:description"        content="{{ page.subtitle }}" />
+
+{% if page.socialMediaImage %}
+<meta property="og:image"              content="{{ page.socialMediaImage }}" />
+<meta name="twitter:image" content="{{ page.socialMediaImage }}">
+{% else %}
+<meta property="og:image"              content="http://alwaysuneven.com/images/alwaysuneven.jpg" />
+<meta name="twitter:image" content="http://alwaysuneven.com/images/alwaysuneven.jpg">
+{% endif %}
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.subtitle }}">
+
+<title>
+    {% if page.pageTitle %}
+      {{page.pageTitle}}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+</title>
+
+</head>
+<body class="body-pad">
+<div class="container">
+
+<nav class="navbar navbar-light navbar-expand-md bg-faded justify-content-center">
+    <a href="../index.html" class="navbar-brand d-flex w-50 mr-auto font-weight-bold">Always Uneven</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse w-100" id="collapsingNavbar3">
+        <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
+            <li class="nav-item">
+                <a class="nav-link" href="https://www.facebook.com/pg/alwaysuneven/events/">What's on</a>
+            </li>
+            
+        </ul>
+    </div>
+</nav>
+
+	{{ content }}
+
+<footer class="footer-section text-center">
+<div class="container">
+<h2 class="section-title mb-5">Interested?</h2>
+<h2 class="section-title mb-5"><span>Get in touch with us!</span></h2>
+<div class="copyright">
+Copyright 2019 All rights reserved | Always Uneven 
+</div>
+</div>
+</footer>
+
+</body>
+</html>
