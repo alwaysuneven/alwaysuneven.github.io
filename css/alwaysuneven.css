@@ -28,7 +28,8 @@ color: #979797;
 }
 
 .portfolio-item-live-in-the-gallery {
-  height: 300px;
+  background-size: contain;
+  height: 155px;
 }
 
 .portfolio-item .pi-inner {
@@ -92,5 +93,58 @@ p {
 @media (max-width: 767.98px) { 
   .wof-sm-position {
     background-position-x: -700px;
+  }
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .portfolio-item {
+        height: 450px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .body-pad {
+        padding: 0 30px
+    }
+
+    .portfolio-item {
+        height: 350px
+    }
+}
+
+@media (min-width: 350px) {
+  .portfolio-item-live-in-the-gallery {
+    height: 175px;
+  }
+}
+
+@media (min-width: 400px) {
+  .portfolio-item-live-in-the-gallery {
+    height: 210px;
+  }
+}
+
+@media (min-width: 576px) {
+  .portfolio-item-live-in-the-gallery {
+    height: 210px;
+  }
+}
+
+@media (min-width: 768px) { 
+  .portfolio-item-live-in-the-gallery {
+    height: 175px;
+  }
+}
+
+@media (min-width: 992px) { 
+  .portfolio-item-live-in-the-gallery {
+    height: 240px;
+  }
+}
+
+@media (min-width: 1200px) { 
+ .portfolio-item-live-in-the-gallery {
+    height: 290px;
   }
 }
