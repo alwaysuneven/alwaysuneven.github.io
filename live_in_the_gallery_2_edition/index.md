@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Live In The Gallery
-subtitle: Second Edition
+subtitle: Second Edition - Feb 2019
 socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_2_edition.jpg
 ---
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/live_in_the_gallery_artist.jpg" />
 
-## 24th February 2019  - Its Samba Time
+## It's Samba Time
 
 In this second edition, Always Uneven in partnership with Magnet Gallery put together a Brazilian ‘Roda de Samba’ for the Melbourne community. 
 
