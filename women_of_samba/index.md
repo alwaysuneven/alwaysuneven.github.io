@@ -16,6 +16,32 @@ The last performance reproduced a traditional samba jam session. Here, musicians
 
 ----
 
+
+<div class="row">
+  <figure class=" col-lg-12 col-md-12">
+      <img class="img-fluid w-100" src="images/women.jpg">
+  </figure>
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/women_of_samba_1.jpg">
+  </figure>
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/women_of_samba_2.jpg">
+  </figure>
+
+    <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/women_of_samba_3.jpg">
+  </figure>
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/women_of_samba_4.jpg">
+  </figure>
+  <div class="col-12">
+    <p class="lead">
+      Photography: Mariane Gonçalves 
+    </p>
+  </div>
+</div>
+
+
 ## Cast and Creatives
 
 <dl class="row">
@@ -43,29 +69,3 @@ Oliveira, Tiago Ucella, Igor Delagrave<dd>
   <dd class="col-6">Michael Silver, Susanne Silver, Daniel Silver, Gary
 Chan. Thank you for the Capoeira community in Melbourne and Freg J. Stokes<dd> 
 <dl>  
-
-<hr>
-
-<div class="row">
-  <figure class=" col-lg-12 col-md-12">
-      <img class="img-fluid w-100" src="images/women.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/women_of_samba_1.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/women_of_samba_2.jpg">
-  </figure>
-
-    <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/women_of_samba_3.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/women_of_samba_4.jpg">
-  </figure>
-  <div class="col-12">
-    <p class="lead">
-      Photography: Mariane Gonçalves 
-    </p>
-  </div>
-</div>

@@ -5,7 +5,11 @@ subtitle: Second Edition - Feb 2019
 socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_2_edition.jpg
 ---
 
-<img class="img-fluid float-right ml-3 mb-3" src="images/live_in_the_gallery_artist.jpg" />
+<figure class="figure float-right ml-3 mb-3">
+  <img class="img-fluid" src="images/live_in_the_gallery_artist.jpg" />
+  <figcaption class="figure-caption mt-1">Photo by Michael Silver</figcaption>
+</figure>
+
 
 ## It's Samba Time
 

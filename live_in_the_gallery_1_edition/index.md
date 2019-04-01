@@ -5,7 +5,10 @@ subtitle: First Edition - Nov 2018
 socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_1_edition.jpg
 ---
 
-<img class="img-fluid float-right ml-3 mb-3" src="images/live_in_the_gallery_side.jpg" />
+<figure class="figure float-right ml-3 mb-3">
+  <img class="img-fluid" src="images/live_in_the_gallery_side.jpg" />
+  <figcaption class="figure-caption mt-1">Photo by Igor Dallegrave</figcaption>
+</figure>
 
 ## 17th November 2018 
 
