@@ -6,7 +6,11 @@ subtitle: Third Edition - Mar 2019
 socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_3_edition.jpg
 ---
 
-<img class="img-fluid float-right ml-3 mb-3" src="images/live_in_the_gallery_poetry_side.jpg" />
+<figure class="figure float-right ml-3 mb-3">
+<img class="img-fluid " src="images/live_in_the_gallery_poetry_side.jpg" alt="Susanne reading poetry"/>
+  <figcaption class="figure-caption mt-1">Photo by Igor Dallegrave</figcaption>
+</figure>
+
 
 ## Women in the Spotlight
 
@@ -34,13 +38,16 @@ Proin rutrum eget nulla sed ultrices. Nam eget consequat dolor. Fusce risus erat
       <img class="img-fluid" src="images/live_in_the_gallery_women_thin.jpg">
   </figure>
   <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/live_in_the_gallery_crowd_2.jpg">
+  </figure>
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/live_in_the_gallery_crowd_1.jpg">
+  </figure>
+  <figure class=" col-lg-12 col-md-12">
       <img class="img-fluid" src="images/live_in_the_gallery_colourful_collective.jpg">
   </figure>
   <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_crowd.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_imo_duo.jpg">
+      <img class="img-fluid" src="images/live_in_the_gallery_imo.jpg">
   </figure>
   <figure class=" col-lg-6 col-md-6">
       <img class="img-fluid" src="images/live_in_the_gallery_imo_audience.jpg">
@@ -48,12 +55,8 @@ Proin rutrum eget nulla sed ultrices. Nam eget consequat dolor. Fusce risus erat
   
   <figure class=" col-lg-12 col-md-12">
       <img class="img-fluid" src="images/live_in_the_gallery_crew_thin.jpg">
+      <figcaption class="figure-caption mt-1">Crew from top bottom left to right: Michael Silver, Susanne Silver, Marcelo Garcia, Alcides Neto, Daniel Silver, Igor Dallegrave, Alex Childs, Kana Sakai, Sophie Dahm, Clarens Sanchez, Imogen Pemberton, Julia Calasso</figcaption>
   </figure>
-    <div class="col-12">
-    <p class="lead">
-      Photography: Michael Silver
-    </p>
-  </div>
 </div>
 
 
@@ -65,10 +68,14 @@ Proin rutrum eget nulla sed ultrices. Nam eget consequat dolor. Fusce risus erat
   <dd class="col-6">Julia Calasso</dd>
 
   <dt class="col-6">Photographer</dt>
-  <dd class="col-6">Michael Silver</dd>
+  <dd class="col-6">Michael Silver, Igor Dallegrave</dd>
+
+  <dt class="col-6">Performers</dt>
+  <dd class="col-6">Susanne Silver, Alex Childs, Sophie Dahm, Kana Sakai, Clarens Sanchez, Imogen Pemberton, Julia Calasso, Veronica Galvan</dd>
+
 
   <dt class="col-6">Musicians</dt>
-  <dd class="col-6">Damiano Spina, Stefano Vespucci, Tiago Ucella, Marcelo Garcia, Maurizio Gulina, Julia Calasso, Tide, Gabriel Marinho, Renan Santos, Clarens Sanches, Imogen Pemberton</dd>
+  <dd class="col-6">Imogen Pemberton & Oliver Downes</dd>
 
   <dt class="col-6">Sound Engineer</dt>
   <dd class="col-6">Alcides Neto</dd>
