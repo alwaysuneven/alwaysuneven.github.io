@@ -16,7 +16,7 @@ The guitar duo Rasteiro played on Saturday their originals songs along with Braz
 [More about Rasteiro](https://www.facebook.com/rasteiromusic/)
 
 On Sunday we had Tide performing his solo project. Tide is a very talented guitarist player and lead singer of the bands, ‘Rua’ & ‘Vento Pipa’. In his solo project he uses a wide range of percussive instruments and a loop pedal to accompany his guitar and voice. The result is an organic and authentic style of Brazilian music.
-[More about Tide](www.tideneto.com)
+[More about Tide](https://www.tideneto.com)
 
 ---
 
