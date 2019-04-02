@@ -42,7 +42,9 @@ The last performance reproduced a traditional samba jam session. Here, musicians
 </div>
 
 [More photos Opening Night](https://www.facebook.com/pg/alwaysuneven/photos/?tab=album&album_id=446216882789582)
+
 [More photos Capoeira](https://www.facebook.com/pg/alwaysuneven/photos/?tab=album&album_id=446234429454494)
+
 [More photos Closing Ceremony](https://www.facebook.com/pg/alwaysuneven/photos/?tab=album&album_id=446275182783752)
 
 ## Cast and Creatives
