@@ -14,7 +14,9 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 
 ## Women in the Spotlight
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum, justo vitae pretium pretium, nulla augue pulvinar augue, eu ultricies massa velit ut ipsum. Ut auctor faucibus enim, at convallis tortor dictum non. In dapibus turpis suscipit eros bibendum, eget porttitor risus viverra. Mauris ex ligula, bibendum in erat at, ornare bibendum ipsum. Maecenas sit amet ante nec dui luctus egestas. Mauris quis scelerisque neque. Donec feugiat dignissim quam, ac elementum neque fringilla nec. 
+The third edition of ‘Live in the Gallery’ celebrated women in the Arts! 
+Female photographers, singers, composers, dancers, actors, musicians, fashion designers got together to share an inspiring show with the audience. 
+Music, poetry, dance were dialoguing with the astonishing photo exhibition ‘Songs of Innocence’ - 2019 women photographers’ exhibition. 
 
 ## Poetry
 
