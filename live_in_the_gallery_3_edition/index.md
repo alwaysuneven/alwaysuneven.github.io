@@ -33,7 +33,10 @@ Colourful Collective is a startup social enterprise tackling the problem of plas
 
 ## Imogen Peberton
 
-Proin rutrum eget nulla sed ultrices. Nam eget consequat dolor. Fusce risus erat, convallis in commodo sit amet, auctor vel tortor. Sed dictum fringilla diam, accumsan finibus ante consequat nec. Nunc orci tortor, maximus ut quam eget, semper aliquet ligula. Donec convallis volutpat aliquet. Nulla facilisi. Donec aliquet risus eros, eu posuere sem pretium sed. Fusce interdum nunc id risus pretium pharetra. Donec suscipit lacus nec lectus semper, sed semper diam semper. Nunc vitae lorem a magna ornare tincidunt. Integer in varius ex. In pulvinar eu nulla eget tincidunt. Quisque venenatis euismod elit, et tempus lectus consequat at.
+Imogen Pemberton playing her original tunes was the main act of the night!
+She mesmerised the audience with her broad vocal range, soaring melodies and sophisticated guitar playing. Within her folk ballads she touched on many genres but always stayed true to her own unique sound. 
+Her pure organic tone and honesty within her lyrics displays a maturity beyond her years that reaches listeners on a personal level.
+Imogen performed alongside the very talented cellist Oliver Downes. Together the dynamic duo presented a hauntingly beautiful soundscape that both nourished the souls and broke the hearts.
 
 
 <div class="row">
