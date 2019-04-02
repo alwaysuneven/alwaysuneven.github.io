@@ -68,7 +68,7 @@ With soul shooting global melodies, Rasteiro is a musical project with the aim o
  <h2 class="content-subhead">Cast and Creatives</h2>     
 
 <dl class="row">
-  <dt class="col-6">Concept &amp; Producer &amp; Director</dt>
+  <dt class="col-6">Concept ; Producer &amp; Director</dt>
   <dd class="col-6">Julia Calasso</dd>
 
   <dt class="col-6">Photographer</dt>
