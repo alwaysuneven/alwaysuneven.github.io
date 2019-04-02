@@ -28,15 +28,15 @@ Susanne finds his poems so relevant to our society now (even though they were wr
 
 ## Colourful Collective
 
-Colourful Collective is a startup social enterprise tackling the problem of plastic waste from all angles, with the aim of providing meaningful employment for marginalised community members. For 'Women in the Spotlight' they presented an adaptation from their multidisciplinary, awareness-raising performance 'DEBRIS' which debuted in November 2018. This adaptation was a short film created in collaboration with dancer Julia Calasso and was accompanied by live improvisation from performers dressed in artistic costumes handcrafted from plastic waste.
+Colourful Collective is a startup social enterprise tackling the problem of plastic waste from all angles, with the aim of providing meaningful employment for marginalised community members. For 'Women in the Spotlight' they presented an adaptation from their multidisciplinary, awareness-raising performance 'DEBRIS' which debuted in November 2018. This adaptation was a short film created in collaboration with dancer Julia Calasso and was accompanied by live improvisation from performers dressed in artistic costumes handcrafted from plastic waste.[More about Colourful Collective](https://www.colourfulcollective.org)
 
 
-## Imogen Peberton
+## Imogen Pemberton
 
 Imogen Pemberton playing her original tunes was the main act of the night!
 She mesmerised the audience with her broad vocal range, soaring melodies and sophisticated guitar playing. Within her folk ballads she touched on many genres but always stayed true to her own unique sound. 
 Her pure organic tone and honesty within her lyrics displays a maturity beyond her years that reaches listeners on a personal level.
-Imogen performed alongside the very talented cellist Oliver Downes. Together the dynamic duo presented a hauntingly beautiful soundscape that both nourished the souls and broke the hearts.
+Imogen performed alongside the very talented cellist Oliver Downes. Together the dynamic duo presented a hauntingly beautiful soundscape that both nourished the souls and broke the hearts.[More About Imogen Pemberton](https://www.facebook.com/ImogenPmusic/)
 
 
 <div class="row">
