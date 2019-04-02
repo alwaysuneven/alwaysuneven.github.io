@@ -19,10 +19,12 @@ Always Uneven in partnership with Magnet Gallery presented the astonishing Italo
 Transatlantico is an Italo-Colombian duo, which explores diverse rhythms from Latin-American. The members are a talented Colombian singer and an exceptional Italian guitarist/double-bass player who will merge the two with a loop-station. 
 
 The repertoire made of originals and classics travels from Latin jazz, to root south American rhythms such as Colombian and Cuban classics. Transatlantico explores new sonorities and experiments how deep the interaction between two musicians can be.
+[More about Transatlantico](https://www.facebook.com/transatlantico.music.band/)
 
 ## Rasteiro
 
 With soul shooting global melodies, Rasteiro is a musical project with the aim of composing original works and performing them together with Brazilian standards of Bossa Nova, Samba, Baiao and more. Rasteiro is formed by Maurizio Gulina and Marcelo Garcia. Like a conversation they just play. At the end of the day the music says it all.
+[More about Rasteiro](https://www.facebook.com/rasteiromusic/?ref=br_rs)
    
 
 <div class="row">
