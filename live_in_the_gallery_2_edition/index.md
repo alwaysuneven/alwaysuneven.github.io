@@ -55,7 +55,7 @@ Enriching the samba experience, we had an art exhibition by Gustavo Cristoofaro.
  <h2 class="content-subhead">Cast and Creatives</h2>     
 
 <dl class="row">
-  <dt class="col-6">Concept &amp; Director</dt>
+  <dt class="col-6">Concept, Producer &amp; Director</dt>
   <dd class="col-6">Julia Calasso</dd>
 
   <dt class="col-6">Photographer</dt>
