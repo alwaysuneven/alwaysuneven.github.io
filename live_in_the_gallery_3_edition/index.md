@@ -20,8 +20,10 @@ Music, poetry, dance were dialoguing with the astonishing photo exhibition ‘So
 
 ## Poetry
 
-Proin rutrum eget nulla sed ultrices. Nam eget consequat dolor. Fusce risus erat, convallis in commodo sit amet, 
-auctor vel tortor. Sed dictum fringilla diam, accumsan finibus ante consequat nec. Nunc orci tortor, maximus ut quam eget, semper aliquet ligula. Donec convallis volutpat aliquet. Nulla facilisi. Donec aliquet risus eros, eu posuere sem pretium sed. Fusce interdum nunc id risus pretium pharetra. Donec suscipit lacus nec lectus semper, sed semper diam semper. Nunc vitae lorem a magna ornare tincidunt. Integer in varius ex. In pulvinar eu nulla eget tincidunt. Quisque venenatis euismod elit, et tempus lectus consequat at.
+‘Songs of Innocence’ photo exhibition was inspired on English poet William Blake’s highly political poem collections “Songs of Innocence and Experience”. Written in the early 19th Century, at the height of the Industrial Revolution, these poems provide a biting commentary on the essential innocence of childhood and its abuse by an industrialised society. 
+This theme was interpreted by the photographers in many ways – philosophy, symbolism, abstract, documentary, polemic - to produce a varied and illuminating commentary on our times.
+Susanne Silver invited the audience to connect deeply with the exhibition by reciting some the Blake’s poems on the night and guiding audience through the exhibition.  
+Susanne finds his poems so relevant to our society now (even though they were written in 1789). ‘Blake express the innocence of childhood and how it is perverted by society (in his day he was talking about sacrificing childhood to the needs of the industrial revolution in Britain and the repressiveness of society, church and state upon innocence. Nowadays many things pervert and destroy childhood – institutional abuse of children, technology, social media, society’s attitudes and addictions – resulting in mental health problem for so many young people’ Says Susanne.
 
 
 ## Colourful Collective
