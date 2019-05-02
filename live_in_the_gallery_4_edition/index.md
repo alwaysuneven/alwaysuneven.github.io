@@ -159,9 +159,6 @@ an embodied practice of being inside a drawing, listening.
     </p>
   </div>
 
-
-
-
   <div class="col-md-6 ">
     <img src="images/performer_12.jpg" class="rounded-circle" alt="Arjady Martinez">
     <h5 class="py-3">Arjady Martinez</h5>
@@ -172,7 +169,7 @@ years. He writes about love, passion and perspectives of life.
 
   <div class="col-md-6 ">
     <img src="images/performer_13.jpg" class="rounded-circle" alt="Soyoun">
-    <h5 class="py-3">Julia Calasso & Edval Boa Morte</h5>
+    <h5 class="py-3">Julia Calasso &amp; Edval Boa Morte</h5>
     <p>Julia Calasso is a performance artist originally from Brazil, based in Melbourne who
 loves storytelling and dancing. She perceives art as a powerful tool to question aspects of
 our society and to propose alternatives.
@@ -197,9 +194,9 @@ playground.
 </div>
 
 <div class="media mt-4">
-  <img src="images/performer_14.jpg" class="rounded-circle mr-4" alt="Renaud">
+  <img src="images/performer_15.jpg" class="rounded-circle mr-4" alt="Renaud Gay">
   <div class="media-body">
-    <h5 class="mt-0">Renaud</h5>
+    <h5 class="mt-0">Renaud Gay</h5>
     <p> is a French performer and composer, founder of SoundScape, focusing on
 the contemporary use of traditional instruments. Renaud has played in various bands,
 venues and with different artists from around the world.
@@ -222,6 +219,9 @@ in.
 </div>
 
 <div class="row">
+    <figure class=" col-lg-12 col-md-12">
+      <img class="img-fluid" src="images/audience_4.jpg">
+  </figure>
   <figure class=" col-lg-6 col-md-6">
       <img class="img-fluid" src="images/audience_1.jpg">
   </figure>
@@ -247,8 +247,8 @@ in.
   <dt class="col-6">Performers</dt>
   <dd class="col-6">Anyi Yuan, Cathleen Gay, Fabrice Ginap, Grace de las Nieves, Soyoun, Stefano Mangiola, Kana Sakai, Chloe, Johnny Niu, Vasiliki Tsouka, Lalita Ramona Yagnik, Arjady Martinez, Julia Calasso, Dmitry Meow</dd>
 
-  <dt class="col-6">Musician</dt>
-  <dd class="col-6">Renaud, Edval Boa Morte</dd>
+  <dt class="col-6">Musicians</dt>
+  <dd class="col-6">Renaud Gay, Edval Boa Morte</dd>
 
   <dt class="col-6">Sound Engineer</dt>
   <dd class="col-6">Alcides Neto</dd>
