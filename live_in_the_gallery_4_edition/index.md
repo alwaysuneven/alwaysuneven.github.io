@@ -191,13 +191,10 @@ playground.
 </p>
   </div>
 
-</div>
-
-<div class="media mt-4">
-  <img src="images/performer_15.jpg" class="rounded-circle mr-4" alt="Renaud Gay">
-  <div class="media-body">
-    <h5 class="mt-0">Renaud Gay</h5>
-    <p> is a French performer and composer, founder of SoundScape, focusing on
+  <div class="col-md-12 ">
+    <img src="images/performer_15.jpg" class="rounded-circle" alt="Renaud Gay">
+    <h5 class="py-3">Renaud Gay</h5>
+ <p>Renaud is a French performer and composer, founder of SoundScape, focusing on
 the contemporary use of traditional instruments. Renaud has played in various bands,
 venues and with different artists from around the world.
 He had been playing guitar/bass in first place for 10 years before life brought him to the
@@ -216,8 +213,9 @@ heritage. They express the deepest interactions between men and environment they
 in.
 </p>
   </div>
-</div>
 
+</div>
+<hr>
 <div class="row">
     <figure class=" col-lg-12 col-md-12">
       <img class="img-fluid" src="images/audience_4.jpg">
