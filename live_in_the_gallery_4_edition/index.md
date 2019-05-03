@@ -7,19 +7,10 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 ---
 
 ## UniVerses
-'Live in the Gallery' is an event that brings live performances to a gallery space.
-In this edition an international Spoken Word will be the dialogue whilst two remarkable
-photo exhibitions are presented. A bit of live music will bring everything together.
-Our special guests will be reciting poems or storytelling in their mother languages!
-Created by Always Uneven 'Live in the Gallery' is an event that brings live performances to
-a gallery space. April‘s edition ’UniVerses’ is going to be an international Spoken Word
-where poeple with different backgrounds will be expressing themselves in their mother
-language by reciting a poem or storytelling. Live music and photo exhibition will be in
-dialogue with stories and culture that performers will bring through their readings. What is
-going to happen as result of this combination is always a surprise for audience and artists
-involved.
-O verso da unidade eh a multiplicidade de potencias. Potência eh a verdadeira antítese do
-que eh real, pois o virtual existe, em outro plano, mas existe.
+'UniVerses' was an international spoken word that invited audience to travel to 13 different countries through the sounds of mother language. The event brought together people from 13 different nationationaties to express themselves by reciting poems or storytelling in their first languages. 
+The amount of passion that each one of the guests expressed was magical and created an unforgetable experience.
+A very special guest Renaud Gay included the musical element to the night and it made audience and performer ready to fly. 
+Spoken Word was the dialogue whilst two remarkable photo exhibitions presented at the gallery space. 
 
 ## Performers
 
@@ -31,9 +22,7 @@ que eh real, pois o virtual existe, em outro plano, mas existe.
     <h5 class="py-3">Anyi Yuan</h5>
     <p>is originally from China and speaks Mandarin, Cantonese and English.
 She is an amateur singer & songwriter and loves dancing, playing guitar and all kinds of
-sports. She enjoys walking around in the city exploring interesting things and she takes
-active part in various gigs and activities. She likes interacting with people from different
-backgrounds sharing experiences and stories.
+sports. She enjoys interacting with people from different backgrounds sharing experiences and stories.
 She is open to all kinds of arts forms and she believes that she is a good storyteller with
 her music because she is just ‘herself’
     </p>
@@ -56,17 +45,8 @@ narratives
     <h5 class="py-3">Cathleen Gay</h5>
     <p>was born in Melbourne, Australia and she grew up in Provence and
 studied in Paris, France. Dance, Music, Art and Fashion have always been a passion for
-her. She comes from Fashion Haute Couture where she was trained and she worked
-many years for prestigious brands and different sectors in this field.
-She has been living in Shanghai, China for 10 years where she came to work as Fashion
-Design Teacher and Program Responsible for Chinese Universities to give and share her
-expertise of Fashion.
-    </p>
-    <p>
-      She is back to her birth land, Melbourne where she teaches Fashion Design, provides
-Consulting and continues her Artistic work and collaborations as a multidisciplinary and
-transversal designer with textile, drawing, graphic and photo as her main tools of
-expression.
+her. She comes from Fashion Haute Couture where she was trained and she worked many years for prestigious brands and different sectors in this field. She has lived in Shanghai, China for 10 years and now she is back to her birth land, Melbourne where she teaches Fashion Design, provides Consulting and continues her Artistic work and collaborations as a multidisciplinary and
+transversal designer with textile, drawing, graphic and photo as her main tools of expression.
     </p>
   </div>
 
@@ -90,9 +70,7 @@ dialects from the north west.
   <div class="col-md-6 ">
     <img src="images/performer_2.jpg" class="rounded-circle" alt="Fabrice Ginap">
     <h5 class="py-3">Fabrice Ginap</h5>
-    <p>is originally from Martinique Island. He believes in narratives as an
-important tool to pass tradition on. Passionate about capoeira he enjoys expressing
-himself playing the berimbau and singing capoeira songs
+    <p>is originally from Martinique Island and carrys within his Afro-Caribean heritage. This includes Creole Tales, dances and an unique perspective of life. He engages multicultural audiences as a citzen of the world where current and ancient uplifing cellebrations ememrges.
     </p>
   </div>
 
@@ -142,11 +120,7 @@ curator
   <div class="col-md-6 ">
     <img src="images/performer_7.jpg" class="rounded-circle" alt="Kana Sakai">
     <h5 class="py-3">Kana Sakai</h5>
-    <p>was born in Japan. She has been working as primary teacher in Melbourne for over 20 years
-teaching her mother language Japanese and sharing her culture with her students and
-colleagues. She has traveled around the world following her passion for traditional
-drumming
-    </p>
+    <p> was born and grew up in Japan. Her childhood dream to live abroad led her way to NZ and Australia and now has been teaching Japanese at primary schools in Australia over 20 years. Keeping Australia as her base, she has also been pursuing her passion for travelling the world and also another passion towards Afro latin music, especially Brazilian.  Now she counts Australia as her home, Japan as home of her heart and Brazil as home of her soul.      </p>
   </div>
 
   <div class="col-md-6 ">
@@ -175,9 +149,9 @@ loves storytelling and dancing. She perceives art as a powerful tool to question
 our society and to propose alternatives.
 </p>
 <p>
-Edval Boa Morte is a reference in different areas of Brazilian culture. He is a Capoeira
+Edval Boa Morte "Mestre Val Boa Morte' is a reference in different areas of Brazilian culture. He is a Capoeira
 Master and a Brazilian drumming expert and has been travelling around the world since
-1980 performing Brazilian Culture.
+1983 performing Brazilian Culture.
     </p>
   </div>
 
