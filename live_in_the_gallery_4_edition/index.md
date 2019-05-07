@@ -9,7 +9,7 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 ## UniVerses
 'UniVerses' was an international spoken word that invited audience to travel to 13 different countries through the sounds of mother language. The event brought together 15 performers from 13 different nationationaties to express themselves by reciting poems or storytelling in their first languages. 
 The amount of passion each one of the guests expressed was magical creating an unforgetable experience.
-Our very special guest Renaud Gay included the musical element to the night and it made audience and performers opened up their hearts and fly. 
+Our very special guest Renaud Gay brought the musical element to the journey, making audience and performers open up hearts and minds and fly. 
 Spoken Word was the dialogue whilst two remarkable photo exhibitions were presented at the gallery space. 
 
 ## Performers
