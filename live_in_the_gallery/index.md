@@ -15,15 +15,27 @@ The event has a ‘Pay as you Feel’ entry fee. Audience is asked to buy their 
 
 <div class="row portfolios-area">
 
+
   <div class="mix col-lg-6 col-md-6">
-    <a href="../live_in_the_gallery_1_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_1_edition.jpg&quot;);">
-      <div class="pi-inner">
-        <h2>+ See Project</h2>
+      <a href="../live_in_the_gallery_4_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_4_edition.jpg&quot;);">
+          <div class="pi-inner">
+              <h2>+ See Project</h2>
+          </div>
+      </a>
+      <div class="portfolio-meta">
+          <h2>Forth Edition</h2>
       </div>
-    </a>
-    <div class="portfolio-meta">
-      <h2>First Edition</h2>
-    </div>
+  </div>
+  
+  <div class="mix col-lg-6 col-md-6">
+      <a href="../live_in_the_gallery_3_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_3_edition.jpg&quot;);">
+          <div class="pi-inner">
+              <h2>+ See Project</h2>
+          </div>
+      </a>
+      <div class="portfolio-meta">
+          <h2>Third Edition</h2>
+      </div>
   </div>
 
   <div class="mix col-lg-6 col-md-6">
@@ -37,25 +49,16 @@ The event has a ‘Pay as you Feel’ entry fee. Audience is asked to buy their 
       </div>
   </div>
 
-  <div class="mix col-lg-6 col-md-6">
-      <a href="../live_in_the_gallery_3_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_3_edition.jpg&quot;);">
-          <div class="pi-inner">
-              <h2>+ See Project</h2>
-          </div>
-      </a>
-      <div class="portfolio-meta">
-          <h2>Third Edition</h2>
+<div class="mix col-lg-6 col-md-6">
+    <a href="../live_in_the_gallery_1_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_1_edition.jpg&quot;);">
+      <div class="pi-inner">
+        <h2>+ See Project</h2>
       </div>
+    </a>
+    <div class="portfolio-meta">
+      <h2>First Edition</h2>
+    </div>
   </div>
 
-  <div class="mix col-lg-6 col-md-6">
-      <a href="../live_in_the_gallery_4_edition" class="portfolio-item portfolio-item-live-in-the-gallery " style="background-image: url(&quot;./images/live_in_the_gallery_4_edition.jpg&quot;);">
-          <div class="pi-inner">
-              <h2>+ See Project</h2>
-          </div>
-      </a>
-      <div class="portfolio-meta">
-          <h2>Forth Edition</h2>
-      </div>
-  </div>
+  
 </div>
