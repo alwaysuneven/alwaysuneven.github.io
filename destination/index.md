@@ -6,7 +6,7 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 ---
 
 <figure class="figure float-right ml-3 mb-3">
-  <img class="img-fluid" src="images/live_in_the_gallery_side.jpg" />
+  <img class="img-fluid" src="images/ahmad-odeh-JhqhGfX_Wd8-unsplash.jpg" />
   <figcaption class="figure-caption mt-1">Photo by Igor Dallegrave</figcaption>
 </figure>
 
