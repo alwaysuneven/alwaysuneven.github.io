@@ -8,7 +8,7 @@ socialMediaImage: http://alwaysuneven.com/brazilian_wax/images/brazilian_wax_cro
 
 <img class="img-fluid float-right ml-3 mb-3" src="images/brazilian_wax_side.jpg" />
 
-## Brazilian WAXxx
+## Brazilian WAX
 
 Created in 2016 by two Brazilian women “Brazilian WAXxx” is a “bloco”
 (a street parade singing a theme song) bringing Brazilian street Carnaval
