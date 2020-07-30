@@ -15,7 +15,7 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 
 In this project the Brazilian bar culture joins the great Melbournian brewery culture. In others words: a foreigner celebration hosted by the Foreigner Brewery. What a great match! 
 
-'Na faixa’ is a slang that in Brazilian Portuguese and means it is a 'free entry’ gig.
+'Na faixa’ is a slang that in Brazilian Portuguese means its 'for free’ or 'free entry‘.
 
 'Roda de Samba' is a samba jam session that commonly happens in bars all around Brazil. This a special time for the sambistas, who get together to play samba and enjoy life. The samba culture is loved and celebrated around the world not only for Brazilians. Samba became a worldwide community!
 
