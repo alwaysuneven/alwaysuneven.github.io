@@ -1,7 +1,7 @@
 ---
 layout: default
-pageTitle: Brazilian WAXxx
-title: Brazilian WAXxx 
+pageTitle: Brazilian WAX
+title: Brazilian WAX 
 subtitle: Not that one people think of
 socialMediaImage: http://alwaysuneven.com/brazilian_wax/images/brazilian_wax_crowd.jpg
 ---
