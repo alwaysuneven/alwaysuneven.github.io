@@ -63,7 +63,7 @@ Come along to sing and dance with us. It's FREE entry :)
   <dd class="col-6">Igor Dellagrave</dd>
 
   <dt class="col-6">Musicians</dt>
-  <dd class="col-6">Damiano Spina, Stefano Vespucci, Tiago Ucella, Marcelo Garcia, Edval Boa Morte, Nelson Julia Calasso, Tide Neto, Gabriel Marinho, Renan Santos, Clarens Sanches, Imogen Pemberton</dd>
+  <dd class="col-6">Damiano Spina, Stefano Vespucci, Marcelo Garcia, Edval Boa Morte, Nelson Cardoso, Kana Sakai, Tide Neto, Gabriel Marinho, Renan Santos, Clarens Sanches, Julia Calasso, Camila, Maria Mansur &amp guests </dd>
 
   <dt class="col-6">Sound Engineer</dt>
   <dd class="col-6">Alcides Neto</dd>
