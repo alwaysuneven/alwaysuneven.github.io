@@ -10,7 +10,7 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
   </div>
 
   <div class="col-md-12 ">
-    <img src="images/performer_15.jpg" class="rounded-circle" alt="Renaud Gay">
+    <img src="images/performer_15.jpg" class="rounded-circle" alt="Julia Calasso">
     <h5 class="py-3">Julia Calasso</h5>
  
 <p>
