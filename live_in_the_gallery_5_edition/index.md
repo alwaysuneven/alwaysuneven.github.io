@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Live In The Gallery
-subtitle: Fith Edition - Sept 2019
+subtitle: Fifth Edition - Sept 2019
 socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_2_edition.jpg
 ---
 
 <figure class="figure float-right ml-3 mb-3">
-  <img class="img-fluid" src="images/live_in_the_gallery_artist.jpg" />
+  <img class="img-fluid" src="images/brazaman_mellow.jpg" />
   <figcaption class="figure-caption mt-1">Photo by Michael Silver</figcaption>
 </figure>
 
@@ -29,32 +29,24 @@ Along with those performances the Magnet Galley held a father and son exhibition
 
 <div class="row">
   
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_artwork1.jpg">
+  <figure class=" col-lg-12 col-md-12">
+      <img class="img-fluid" src="images/loop_sessions_kick_off.jpg">
+  </figure>
+    <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/brazaman.jpg">
   </figure>
   <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_artwork2.jpg">
+      <img class="img-fluid" src="images/mellow.jpg">
+  </figure>
+
+  <figure class=" col-lg-6 col-md-6">
+      <img class="img-fluid" src="images/loop_sessions_1.jpg">
   </figure>
   <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_crowd1.jpg">
+      <img class="img-fluid" src="images/loop_sessions_2.jpg">
   </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_tide.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_dance1.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_dance2.jpg">
-  </figure>
-    <div class="col-12">
-    <p class="lead">
-      Photography: Michael Silver
-    </p>
-  </div>
 </div>
 
-[More photos](https://www.facebook.com/pg/alwaysuneven/photos/?tab=album&album_id=446209709456966)
 
 <hr>    
  <h2 class="content-subhead">Cast and Creatives</h2>     
