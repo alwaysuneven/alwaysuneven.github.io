@@ -6,8 +6,7 @@ socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the
 ---
 
 <figure class="figure float-right ml-3 mb-3">
-  <img class="img-fluid" src="images/live_in_the_gallery_artist.jpg" />
-  <figcaption class="figure-caption mt-1">Photo by Michael Silver</figcaption>
+  <img class="img-fluid" src="images/samba_na_faixa_cover.jpg" />
 </figure>
 
 
@@ -25,32 +24,19 @@ Come along to sing and dance with us. It's FREE entry :)
 
 <div class="row">
   
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_artwork1.jpg">
+  <figure class=" col-lg-12 col-md-12">
+      <img class="img-fluid" src="images/samba_na_faixa_mesa.jpg">
   </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_artwork2.jpg">
+  <figure class=" col-lg-4 col-md-4">
+      <img class="img-fluid" src="images/samba_na_faixa_1.jpg">
   </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_crowd1.jpg">
+  <figure class=" col-lg-4 col-md-4">
+      <img class="img-fluid" src="images/samba_na_faixa_2.jpg">
   </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_tide.jpg">
+  <figure class=" col-lg-4 col-md-4">
+      <img class="img-fluid" src="images/samba_na_faixa_5.jpg">
   </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_dance1.jpg">
-  </figure>
-  <figure class=" col-lg-6 col-md-6">
-      <img class="img-fluid" src="images/live_in_the_gallery_dance2.jpg">
-  </figure>
-    <div class="col-12">
-    <p class="lead">
-      Photography: Michael Silver
-    </p>
-  </div>
 </div>
-
-[More photos](https://www.facebook.com/pg/alwaysuneven/photos/?tab=album&album_id=446209709456966)
 
 <hr>    
  <h2 class="content-subhead">Cast and Creatives</h2>     
