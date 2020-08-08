@@ -2,7 +2,6 @@
 layout: default
 title: Samba na Faixa
 subtitle: Roda de Samba
-socialMediaImage: http://alwaysuneven.com/live_in_the_gallery/images/live_in_the_gallery_2_edition.jpg
 ---
 
 <figure class="figure float-right ml-3 mb-3">
