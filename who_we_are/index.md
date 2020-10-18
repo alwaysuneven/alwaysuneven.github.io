@@ -16,7 +16,7 @@ I am Julia, I am originally from Brazil, I migrated to Australia in 2013. I am t
 
 I am fascinated by the power of storytelling. When we share our own stories we open ourselves up to multiple worlds and expose the poetry of our own journeys to each other. We understand how rich and fortunate we are to live in such a diverse society. I am passionate about multiculturalism and social justice. The arts offer culturally and linguistically diverse communities tools for shining our own light into the world, reclaiming our agency, and our capacity to influence and participate in society.
 
-In 2016 I created Always Uneven driven by an urge to promote an inclusive community of creatives, and by the desire to take artists to new spaces to develop a multidisciplinary and culturally diverse arts projects. 
+In 2016 I created Always Uneven driven by an urge to promote an inclusive community of creatives, and by the desire to take artists to new spaces to develop multidisciplinary and culturally diverse arts projects. 
 
 For me creative arts has to question society and provoke critical thinking. I strongly believe that true inclusivity will happen when we see the diversity of festivals line-ups and programs reflected in the management structures of the arts industry. 
 
